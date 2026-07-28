@@ -4,8 +4,8 @@
   "title": "Confirm availability",
   "titleGenerationStatus": "success",
   "createdAt": 1785253608129,
-  "updatedAt": 1785255410465,
-  "lastResponseAt": 1785255410465,
+  "updatedAt": 1785255767601,
+  "lastResponseAt": 1785255767601,
   "sessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659",
   "selectedModel": "opus",
   "providerState": {
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 1,
-    "cacheCreationInputTokens": 1197,
-    "cacheReadInputTokens": 39955,
+    "cacheCreationInputTokens": 503,
+    "cacheReadInputTokens": 50446,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 41153,
-    "percentage": 4
+    "contextTokens": 50950,
+    "percentage": 5
   }
 }
