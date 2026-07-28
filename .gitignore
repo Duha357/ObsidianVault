@@ -1,0 +1,17 @@
+# Скрываем файлы рабочих областей, чтобы не было конфликтов между ПК
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# КэшObsidian (временные файлы, нет смысла синхронизировать)
+.obsidian/cache
+
+# Папка корзины (зачем нам синхронизировать удаленные файлы на другой ПК?)
+.trash/
+
+# Системные файлы Windows (если пользуешься виндой)
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Системные файлы macOS (на всякий случай, если interacт с маком)
+.DS_Store
