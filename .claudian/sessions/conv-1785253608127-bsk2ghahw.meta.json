@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785253608127-bsk2ghahw",
+  "providerId": "claude",
+  "title": "Confirm availability",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785253608129,
+  "updatedAt": 1785253624336,
+  "lastResponseAt": 1785253624336,
+  "sessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659"
+  },
+  "currentNote": "docs/Walkthrough/Gothic 1 Remake/Места.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 7224,
+    "cacheReadInputTokens": 25537,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 32763,
+    "percentage": 3
+  }
+}
