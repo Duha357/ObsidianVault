@@ -4,10 +4,10 @@
   "title": "Confirm availability",
   "titleGenerationStatus": "success",
   "createdAt": 1785253608129,
-  "updatedAt": 1785253624336,
+  "updatedAt": 1785253909017,
   "lastResponseAt": 1785253624336,
   "sessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659",
-  "selectedModel": "sonnet",
+  "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659"
   },
