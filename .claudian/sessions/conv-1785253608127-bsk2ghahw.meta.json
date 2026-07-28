@@ -4,22 +4,21 @@
   "title": "Confirm availability",
   "titleGenerationStatus": "success",
   "createdAt": 1785253608129,
-  "updatedAt": 1785253909017,
-  "lastResponseAt": 1785253624336,
+  "updatedAt": 1785255410465,
+  "lastResponseAt": 1785255410465,
   "sessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659",
   "selectedModel": "opus",
   "providerState": {
     "providerSessionId": "1a6e744a-2c0e-4a51-98e5-028e54ce5659"
   },
-  "currentNote": "docs/Walkthrough/Gothic 1 Remake/Места.md",
   "usage": {
-    "model": "sonnet",
-    "inputTokens": 2,
-    "cacheCreationInputTokens": 7224,
-    "cacheReadInputTokens": 25537,
+    "model": "opus",
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1197,
+    "cacheReadInputTokens": 39955,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 32763,
-    "percentage": 3
+    "contextTokens": 41153,
+    "percentage": 4
   }
 }
