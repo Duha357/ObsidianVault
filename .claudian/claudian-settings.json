@@ -6,7 +6,7 @@
   "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
-  "titleGenerationModel": "",
+  "titleGenerationModel": "opus",
   "excludedTags": [],
   "mediaFolder": "",
   "systemPrompt": "",
@@ -33,7 +33,7 @@
       "customModels": "",
       "lastModel": "haiku",
       "modelEnvironmentType": "",
-      "titleModelEnvironmentType": "",
+      "titleModelEnvironmentType": "opus",
       "environmentVariables": "",
       "environmentHash": ""
     },
