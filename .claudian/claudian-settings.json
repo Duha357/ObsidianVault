@@ -68,7 +68,9 @@
     },
     "opencode": {
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "device:0ebf923a-d34c-44b4-b888-cda45e0951e5": "C:\\Users\\a.semerikov\\AppData\\Local\\Programs\\@opencode-aidesktop\\OpenCode.exe"
+      },
       "enabled": true,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
