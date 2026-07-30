@@ -3,7 +3,7 @@
   "isUsingRag": true,
   "assistantLanguage": "en",
   "initialAssistantMessageContent": "Hello, I am your assistant. How can I help you?",
-  "isIncognitoMode": false,
+  "isIncognitoMode": true,
   "ollamaGenModel": {
     "model": "llama2",
     "baseUrl": "http://localhost:11434",
