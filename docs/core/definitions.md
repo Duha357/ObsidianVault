@@ -9,14 +9,15 @@ description: Методика что, как называем и их крите
 - Loss minimization tactics
 - Fast‑track strategies
 - Lifehacks
-- Optimizations
-- Time‑savers
+- Optimizations (Time, Resources, Quality savers)
 - Pro tips
 - Workarounds
 - Shortcuts
 - Hints
 - Tricks
 - Best practices
+- Fast wins
+- Creative uses
 
 ## Не явное
 
