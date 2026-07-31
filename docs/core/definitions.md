@@ -10,8 +10,7 @@ description: Методика что, как называем и их крите
 - Fast‑track strategies
 - Lifehacks
 - Loss minimization tactics
-- Optimizations
-	- Time, Resources, Quality savers
+- Optimizations (Time, Resources, Quality savers)
 - Pro-level tips
 - Workarounds
 - Shortcuts
@@ -63,16 +62,26 @@ description: Методика что, как называем и их крите
 Пример:
 - Cheat codes
 - Exploits
+- Friction traps
 - Glitches
 - Hacks
+- Retention tricks
 - Dark patterns
 - Fallback methods
 - Contingency tactics
+- Scam patterns
 - Risk tactics
 - Damage control
 - Hacky solutions
 - Quirks (Engine, Platform, Profession)
 - Manipulative tactics
+- Deceptive UX
+- Behavioral nudges
+- Pressure tactics
+- Exploitative flows
+- Abuse vectors
+- Growth hacks
+- Conversion tricks
 
 ## Профессионал
 
