@@ -46,6 +46,7 @@ description: Методика что, как называем и их крите
 - Non-standard techniques
 - Underdocumented behavior
 - Undocumented features
+- Grey area tactics
 - Expert-only shortcuts
 - Secret receipts
 - Undocumented behavior
@@ -87,3 +88,48 @@ description: Методика что, как называем и их крите
 
 Имеет опыт в большинстве ситуаций. Понимает, какие/когда требуются действия/инструменты/ограничения
 Cheat codes/Exploits/Loopholes/Backdoor methods/Insider tricks/Glitches/Bugs/Undocumented features/Unconventional approaches/Loss minimization tactics/Fast‑track strategies/Non‑obvious opportunities/Lifehacks/Efficiency hacks/Optimization tweaks/Time‑savers/Pro tips/Workarounds/Shortcuts/Hints/Dark patterns
+
+
+## Явное
+
+- Standard procedures
+- Core principles
+- Direct instructions
+- Step-by-step guides
+- Rule of thumb
+- Common practices
+- Systematic approaches
+- Setup guides
+- Baseline rules
+- Clear-cut methods
+- Fundamentals
+
+## Не явное
+
+- Easter eggs
+- Blind spots
+- Subtle cues
+- Unspoken rules
+- Gray area tactics
+- Bypass routes
+- Stealth tactics
+- Hidden mechanics
+- Shadow processes
+- Side effects
+- Implicit assumptions
+
+## Асоциальное
+
+- Bait-and-switch
+- Forced continuity
+- Confirmshaming
+- Roach motel
+- Misdirection
+- Friend spam
+- Privacy zuckering
+- Forced action
+- Clickbait
+- Fake urgency
+- Artificial scarcity
+- Lock-in tactics
+- Attention hijacking
