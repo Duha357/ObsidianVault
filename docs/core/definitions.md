@@ -2,13 +2,13 @@
 description: Методика что, как называем и их критерии на фоне синонимов.
 ---
 ---
-## Очевидное
+## Экспертное
 
-Неочевидное, но формулируемое знание: не даётся в гайдах и инструкциях (обычно там вода или действия по инструкции) и не записано явно. Понятно при объяснении. Даёт существенное преимущество перед равными — теми, кто читает те же гайды.
+Экспертное знание: знакомо практикующим специалистам, но не даётся в гайдах и инструкциях (обычно там вода или действия по инструкции) и не записано явно. Понятно при объяснении. Даёт существенное преимущество перед равными — теми, кто читает те же гайды.
 
 ### Советы (Tips)
 
-- Best practices
+- Efficiency hacks
 - Fast wins
 - Hints
 - Lifehacks
@@ -22,14 +22,14 @@ description: Методика что, как называем и их крите
 - Loss minimization tactics
 - Low-friction methods
 - Process improvements
-- Quality—savers
+- Quality-savers
 - Resource management
-- Resources—savers
+- Resources-savers
 - Smart defaults
 
-### Экономия времени (Time—savers)
+### Экономия времени (Time-savers)
 
-- Fast‑track strategies
+- Fast-track strategies
 - Productivity boosts
 - Speedruns
 
@@ -42,7 +42,6 @@ description: Методика что, как называем и их крите
 ### Скрытые возможности (Hidden features)
 
 - Power-user features
-- Tactical advantages
 
 ---
 
@@ -53,6 +52,7 @@ description: Методика что, как называем и их крите
 ### Инсайдерское знание (Insider knowledge)
 
 - Advanced tips
+- Behavioral nudges
 - Expert-only shortcuts
 - Insider tricks
 - Little-known tricks
@@ -66,23 +66,27 @@ description: Методика что, как называем и их крите
 - Backdoor methods
 - Bypass routes
 - Grey area tactics
+- Growth hacks
 - Indirect paths
 - Non-standard techniques
 - Stealth tactics
 - Unconventional approaches
 - Unintended uses
 
+### Стратегии на случай сбоев (Contingency strategies)
+
+- Contingency tactics
+- Damage control
+- Fallback methods
+- Risk tactics
+
 ### Слепые зоны (Blind spots)
 
 - Hidden opportunities
 - Implicit assumptions
-- Non‑obvious opportunities
+- Non-obvious opportunities
 - Overlooked features
 - Undiscovered methods
-
-### Efficiency hacks
-
-- Efficiency hacks
 
 ### Скрытые механики (Hidden mechanics)
 
@@ -98,6 +102,7 @@ description: Методика что, как называем и их крите
 - Bugs
 - Contextual triggers
 - Corner cases
+- Quirks (Engine, Platform, Profession)
 - Side effects
 - Underdocumented behavior
 
@@ -152,7 +157,6 @@ description: Методика что, как называем и их крите
 #### Стыд и вина (Shame and guilt)
 
 - Confirmshaming
-- Confirmshaming
 - Guilt-tripping
 
 #### Конверсия и удержание (Conversion and retention)
@@ -168,18 +172,8 @@ description: Методика что, как называем и их крите
 - Hacks
 - Hacky solutions
 
-### Кандидаты на перенос (ожидают решения)
-
-- Behavioral nudges
-- Contingency tactics
-- Damage control
-- Fallback methods
-- Growth hacks
-- Quirks (Engine, Platform, Profession)
-- Risk tactics
-
 ---
 
 ## Профессионал
 
-Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться Очевидным/Неочевидным/Асоциальным из этого документа, специфичным для профессии или смежных областей.
+Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться разделами «Экспертное», «Неочевидное», «Асоциальное» из этого документа, специфичными для профессии или смежных областей.
