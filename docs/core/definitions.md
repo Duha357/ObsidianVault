@@ -12,6 +12,7 @@ description: Методика что, как называем и их крите
 - Loss minimization tactics
 - Optimizations
 - Time—savers
+- Speedruns
 - Resources—savers
 - Quality—savers
 - Pro-level tips
@@ -26,6 +27,7 @@ description: Методика что, как называем и их крите
 - Creative uses
 - Low-friction methods
 - Process improvements
+- Resource management
 - Alternative methods
 - Productivity boosts
 - Power-user features
@@ -44,19 +46,26 @@ description: Методика что, как называем и их крите
 - Bugs
 - Undiscovered methods
 - Blind spots
+- Hidden flags
 - Shadow processes
 - Insider knowledge
+- Unintended uses
 - Hidden opportunities
 - Little-known tricks
+- Under-the-hood tweaks
 - Implicit assumptions
+- Implicit mechanics
 - Advanced tips
 - Side effects
+- Ghost features
 - Non-standard techniques
 - Stealth tactics
 - Underdocumented behavior
 - Bypass routes
+- Corner cases
 - Undocumented features
 - Hidden mechanics
+- Indirect paths
 - Grey area tactics
 - Expert-only shortcuts
 - Secret receipts
@@ -65,6 +74,7 @@ description: Методика что, как называем и их крите
 - Unconventional approaches
 - Non‑obvious opportunities
 - Unspoken rules
+- Contextual triggers
 - Overlooked features
 - Efficiency hacks
 - Alternate routes
@@ -119,34 +129,3 @@ description: Методика что, как называем и их крите
 ## Профессионал
 
 Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться Явное/Не явное/Асоциальное из этого документа, специфичное для профессии или смежными областями
-
-
-
-
-## Явное
-
-- Quick wins
-- Time-savers
-- Core workflows
-- Direct solutions
-- Transparent setups
-- Speedruns
-- Resource management
-- Baseline optimizations
-- Standard protocols
-- Straightforward tactics
-- Usability improvements
-
-## Не явное
-
-- Unintended uses
-- Ghost features
-- Hidden flags
-- Implicit mechanics
-- Under-the-hood tweaks
-- Corner cases
-- Indirect paths
-- Stealth techniques
-- Side-effects
-- Invisible settings
-- Contextual triggers
