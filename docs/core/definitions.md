@@ -6,19 +6,27 @@ description: Методика что, как называем и их крите
 Понятное. Чаще встречающееся. Открытое. Логичное. Прямое. Откровенное
 
 Пример:
+- Tips
 - Fast‑track strategies
 - Lifehacks
 - Loss minimization tactics
 - Optimizations
 	- Time, Resources, Quality savers
-- Pro tips
+- Pro-level tips
 - Workarounds
 - Shortcuts
 - Hints
+- Hidden features
 - Tricks
 - Best practices
 - Fast wins
 - Creative uses
+- Alternative methods
+- Productivity boosts
+- Power-user features
+- Smart defaults
+- Edge-case solutions
+- Tactical advantages
 
 ## Не явное
 
