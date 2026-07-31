@@ -1,8 +1,26 @@
 {
-  "selectedRagSetting": null,
+  "selectedRagSetting": "Search",
   "webSearchEnabled": false,
   "selectedModel": "api:provider_1785394168259:deepseek-v4-flash-free",
-  "ragSettings": {},
+  "ragSettings": {
+    "Search": {
+      "embeddingBaseUrl": "",
+      "embeddingApiKey": "",
+      "embeddingModel": "",
+      "chunkSize": 500,
+      "chunkOverlap": 100,
+      "pdfChunkPages": 6,
+      "topK": 5,
+      "scoreThreshold": 0.3,
+      "targetFolders": [],
+      "excludePatterns": [],
+      "searchFileExtensions": [],
+      "lastFullSync": null,
+      "externalIndexPath": "",
+      "sourceRagSettings": [],
+      "indexMultimodal": false
+    }
+  },
   "maxPreviousMessages": 99,
   "sentPromptHistory": [
     "Привеи",
