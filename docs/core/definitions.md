@@ -5,6 +5,19 @@ description: Методика что, как называем и их крите
 
 Понятное. Чаще встречающееся. Открытое. Логичное. Прямое. Откровенное
 
+Пример:
+- Loss minimization tactics
+- Fast‑track strategies
+- Lifehacks
+- Optimizations
+- Time‑savers
+- Pro tips
+- Workarounds
+- Shortcuts
+- Hints
+- Tricks
+- Best practices
+
 ## Не явное
 
 Не понятное. Редко встречающееся. Закрытое. Кажущееся логичным. Не логичное. Косвенное. Уклончивое
@@ -13,6 +26,11 @@ description: Методика что, как называем и их крите
 - Loopholes
 - Backdoor methods
 - Insider tricks
+- Bugs
+- Undocumented features
+- Unconventional approaches
+- Non‑obvious opportunities
+- Efficiency hacks
 
 ## Асоциальное
 
@@ -21,6 +39,8 @@ description: Методика что, как называем и их крите
 Пример:
 - Cheat codes
 - Exploits
+- Glitches
+- Dark patterns
 
 ## Профессионал
 
