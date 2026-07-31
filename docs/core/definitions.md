@@ -1,131 +1,181 @@
 ---
 description: Методика что, как называем и их критерии на фоне синонимов.
 ---
-## Явное
 
-Понятное. Чаще встречающееся. Открытое. Логичное. Прямое. Откровенное
+## Очевидное
 
-Пример:
-- Tips
-- Fast‑track strategies
-- Lifehacks
-- Loss minimization tactics
-- Optimizations
-- Time—savers
-- Speedruns
-- Resources—savers
-- Quality—savers
-- Pro-level tips
-- Workarounds
-- Shortcuts
-- Quick wins
-- Hints
-- Hidden features
-- Tricks
+Неочевидное, но формулируемое знание: не даётся в гайдах и инструкциях (обычно там вода или действия по инструкции) и не записано явно. Понятно при объяснении. Даёт существенное преимущество перед равными — теми, кто читает те же гайды.
+
+### Советы (Tips)
+
 - Best practices
 - Fast wins
-- Creative uses
+- Hints
+- Lifehacks
+- Pro-level tips
+- Quick wins
+- Shortcuts
+- Tricks
+
+### Оптимизация (Optimizations)
+
+- Loss minimization tactics
 - Low-friction methods
 - Process improvements
+- Quality—savers
 - Resource management
-- Alternative methods
-- Productivity boosts
-- Power-user features
+- Resources—savers
 - Smart defaults
+
+### Экономия времени (Time—savers)
+
+- Fast‑track strategies
+- Productivity boosts
+- Speedruns
+
+### Обходные пути (Workarounds)
+
+- Alternative methods
+- Creative uses
 - Edge-case solutions
+
+### Скрытые возможности (Hidden features)
+
+- Power-user features
 - Tactical advantages
 
-## Не явное
+## Неочевидное
 
-Не понятное. Редко встречающееся. Закрытое. Кажущееся логичным. Не логичное. Косвенное. Уклончивое
+Узкоспециализированное знание, скрытое или редко встречающееся. Большинство о нём не знает — включая людей, специализирующихся в теме. Даёт существенное преимущество перед равными и, как правило, перед экспертами.
 
-Пример:
-- Loopholes
-- Backdoor methods
-- Insider tricks
-- Bugs
-- Undiscovered methods
-- Blind spots
-- Hidden flags
-- Shadow processes
-- Insider knowledge
-- Unintended uses
-- Hidden opportunities
-- Little-known tricks
-- Under-the-hood tweaks
-- Implicit assumptions
-- Implicit mechanics
+### Инсайдерское знание (Insider knowledge)
+
 - Advanced tips
-- Side effects
-- Ghost features
+- Expert-only shortcuts
+- Insider tricks
+- Little-known tricks
+- Secret receipts
+- Subtle cues
+- Unspoken rules
+
+### Лазейки (Loopholes)
+
+- Alternate routes
+- Backdoor methods
+- Bypass routes
+- Grey area tactics
+- Indirect paths
 - Non-standard techniques
 - Stealth tactics
-- Underdocumented behavior
-- Bypass routes
-- Corner cases
-- Undocumented features
-- Hidden mechanics
-- Indirect paths
-- Grey area tactics
-- Expert-only shortcuts
-- Secret receipts
-- Undocumented behavior
-- Subtle cues
-- Unconventional approaches
-- Non‑obvious opportunities
-- Unspoken rules
-- Contextual triggers
+- Unconventional approaches
+- Unintended uses
+
+### Слепые зоны (Blind spots)
+
+- Hidden opportunities
+- Implicit assumptions
+- Non‑obvious opportunities
 - Overlooked features
-- Efficiency hacks
-- Alternate routes
+- Undiscovered methods
+
+### Efficiency hacks
+
+- Efficiency hacks
+
+### Скрытые механики (Hidden mechanics)
+
+- Ghost features
+- Hidden flags
+- Implicit mechanics
+- Shadow processes
+- Under-the-hood tweaks
+- Undocumented features
+
+### Незадокументированное поведение (Undocumented behavior)
+
+- Bugs
+- Contextual triggers
+- Corner cases
+- Side effects
+- Underdocumented behavior
+
+---
 
 ## Асоциальное
 
-Не принятое обществом
+Знание об обходе существующих социальных, кодовых и других ограничений системы. Использование может быть незаконным, неэтичным или давать нечестное преимущество. Фиксируется в базе как знание — не для использования.
 
-Пример:
-- Cheat codes
-- Exploits
-- Friction traps
+### Тёмные паттерны (Dark patterns)
+
+#### Обман и подмена (Deception)
+
+- Bait-and-switch
+- Deceptive UX
 - Privacy zuckering
+- Scam patterns
+- Sneaky redirects
+
+#### Принуждение (Forced action)
+
+- Forced action
+- Forced continuity
+- Forced subscriptions
+- Friction traps
+- Lock-in tactics
+- Obstruction tactics
+- Roach motel
+
+#### Ложный дефицит и срочность (Fake scarcity and urgency)
+
+- Artificial scarcity
+- Fake urgency
+
+#### Перехват внимания (Attention hijacking)
+
+- Attention hijacking
+- Attention traps
+- Clickbait
+
+#### Фальшивое соцдоказательство (Fake social proof)
+
+- Fake social proof
+- Friend spam
+
+#### Давление и манипуляция (Pressure and manipulation)
+
+- Exploitative flows
+- Manipulative tactics
+- Pressure tactics
+
+#### Стыд и вина (Shame and guilt)
+
+- Confirmshaming
+- Confirmshaming
+- Guilt-tripping
+
+#### Конверсия и удержание (Conversion and retention)
+
+- Conversion tricks
+- Retention tricks
+
+### Технические эксплойты (Exploits)
+
+- Abuse vectors
+- Cheat codes
 - Glitches
 - Hacks
-- Obstruction tactics
-- Retention tricks
-- Dark patterns
-- Fallback methods
-- Roach motel
-- Confirmshaming
-- Artificial scarcity
-- Contingency tactics
-- Friend spam
-- Fake social proof
-- Attention hijacking
-- Forced action
-- Scam patterns
-- Forced continuity
-- Guilt-tripping
-- Attention traps
-- Confirmshaming
-- Sneaky redirects
-- Risk tactics
-- Damage control
-- Forced subscriptions
 - Hacky solutions
-- Fake urgency
-- Quirks (Engine, Platform, Profession)
-- Manipulative tactics
-- Deceptive UX
-- Bait-and-switch
+
+### Кандидаты на перенос (ожидают решения)
+
 - Behavioral nudges
-- Pressure tactics
-- Exploitative flows
-- Abuse vectors
+- Contingency tactics
+- Damage control
+- Fallback methods
 - Growth hacks
-- Clickbait
-- Conversion tricks
-- Lock-in tactics
+- Quirks (Engine, Platform, Profession)
+- Risk tactics
 
 ## Профессионал
 
-Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться Явное/Не явное/Асоциальное из этого документа, специфичное для профессии или смежными областями
+Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться Очевидным/Неочевидным/Асоциальным из этого документа, специфичным для профессии или смежных областей.
