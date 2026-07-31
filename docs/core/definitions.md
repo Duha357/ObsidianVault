@@ -21,6 +21,8 @@ description: Методика что, как называем и их крите
 - Best practices
 - Fast wins
 - Creative uses
+- Low-friction methods
+- Process improvements
 - Alternative methods
 - Productivity boosts
 - Power-user features
@@ -37,9 +39,20 @@ description: Методика что, как называем и их крите
 - Backdoor methods
 - Insider tricks
 - Bugs
+- Undiscovered methods
+- Insider knowledge
+- Hidden opportunities
+- Little-known tricks
+- Advanced tips
+- Non-standard techniques
+- Underdocumented behavior
 - Undocumented features
+- Expert-only shortcuts
+- Secret items
+- Undocumented behavior
 - Unconventional approaches
 - Non‑obvious opportunities
+- Overlooked features
 - Efficiency hacks
 - Alternate routes
 
@@ -51,6 +64,7 @@ description: Методика что, как называем и их крите
 - Cheat codes
 - Exploits
 - Glitches
+- Hacks
 - Dark patterns
 
 ## Профессионал
