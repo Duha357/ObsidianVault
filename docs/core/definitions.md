@@ -39,6 +39,7 @@ description: Методика что, как называем и их крите
 - Insider tricks
 - Bugs
 - Undiscovered methods
+- Blind spots
 - Insider knowledge
 - Hidden opportunities
 - Little-known tricks
@@ -50,8 +51,10 @@ description: Методика что, как называем и их крите
 - Expert-only shortcuts
 - Secret receipts
 - Undocumented behavior
+- Subtle cues
 - Unconventional approaches
 - Non‑obvious opportunities
+- Unspoken rules
 - Overlooked features
 - Efficiency hacks
 - Alternate routes
@@ -86,23 +89,9 @@ description: Методика что, как называем и их крите
 
 ## Профессионал
 
-Имеет опыт в большинстве ситуаций. Понимает, какие/когда требуются действия/инструменты/ограничения
-Cheat codes/Exploits/Loopholes/Backdoor methods/Insider tricks/Glitches/Bugs/Undocumented features/Unconventional approaches/Loss minimization tactics/Fast‑track strategies/Non‑obvious opportunities/Lifehacks/Efficiency hacks/Optimization tweaks/Time‑savers/Pro tips/Workarounds/Shortcuts/Hints/Dark patterns
+Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться Явное/Не явное/Асоциальное из этого документа, специфичное для профессии или смежными областями
 
 
-## Явное
-
-- Standard procedures
-- Core principles
-- Direct instructions
-- Step-by-step guides
-- Rule of thumb
-- Common practices
-- Systematic approaches
-- Setup guides
-- Baseline rules
-- Clear-cut methods
-- Fundamentals
 
 ## Не явное
 
