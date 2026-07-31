@@ -40,13 +40,19 @@ description: Методика что, как называем и их крите
 - Bugs
 - Undiscovered methods
 - Blind spots
+- Shadow processes
 - Insider knowledge
 - Hidden opportunities
 - Little-known tricks
+- Implicit assumptions
 - Advanced tips
+- Side effects
 - Non-standard techniques
+- Stealth tactics
 - Underdocumented behavior
+- Bypass routes
 - Undocumented features
+- Hidden mechanics
 - Grey area tactics
 - Expert-only shortcuts
 - Secret receipts
@@ -67,24 +73,32 @@ description: Методика что, как называем и их крите
 - Cheat codes
 - Exploits
 - Friction traps
+- Privacy zuckering
 - Glitches
 - Hacks
 - Retention tricks
 - Dark patterns
 - Fallback methods
+- Roach motel
 - Contingency tactics
+- Friend spam
+- Forced action
 - Scam patterns
+- Forced continuity
+- Confirmshaming
 - Risk tactics
 - Damage control
 - Hacky solutions
 - Quirks (Engine, Platform, Profession)
 - Manipulative tactics
 - Deceptive UX
+- Bait-and-switch
 - Behavioral nudges
 - Pressure tactics
 - Exploitative flows
 - Abuse vectors
 - Growth hacks
+- Clickbait
 - Conversion tricks
 
 ## Профессионал
@@ -93,19 +107,6 @@ description: Методика что, как называем и их крите
 
 
 
-## Не явное
-
-- Easter eggs
-- Blind spots
-- Subtle cues
-- Unspoken rules
-- Gray area tactics
-- Bypass routes
-- Stealth tactics
-- Hidden mechanics
-- Shadow processes
-- Side effects
-- Implicit assumptions
 
 ## Асоциальное
 
