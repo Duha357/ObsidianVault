@@ -1,31 +1,21 @@
 ---
-description: Методика что, как называем и их критерии на фоне синонимов.
+description: Методика: как называем категории знания, критерии отнесения на фоне синонимов.
 ---
----
+
 ## Экспертное
 
-Экспертное знание: знакомо практикующим специалистам, но не даётся в гайдах и инструкциях (обычно там вода или действия по инструкции) и не записано явно. Понятно при объяснении. Даёт существенное преимущество перед равными — теми, кто читает те же гайды.
+Знакомо практикующим специалистам. В гайдах и инструкциях не даётся, явно не записано. Понятно при объяснении. Даёт существенное преимущество перед равными.
 
 ### Советы (Tips)
 
 - Efficiency hacks
 - Fast wins
 - Hints
-- Lifehacks
-- Pro-level tips
-- Quick wins
-- Shortcuts
-- Tricks
+- Lifehacks, Pro-level tips, Quick wins, Shortcuts, Tricks
 
 ### Оптимизация (Optimizations)
 
-- Loss minimization tactics
-- Low-friction methods
-- Process improvements
-- Quality-savers
-- Resource management
-- Resources-savers
-- Smart defaults
+Loss minimization tactics, Low-friction methods, Process improvements, Quality-savers, Resource management, Resources-savers, Smart defaults
 
 ### Экономия времени (Time-savers)
 
@@ -47,31 +37,15 @@ description: Методика что, как называем и их крите
 
 ## Неочевидное
 
-Узкоспециализированное знание, скрытое или редко встречающееся. Большинство о нём не знает — включая людей, специализирующихся в теме. Даёт существенное преимущество перед равными и, как правило, перед экспертами.
+Узкоспециализированное знание, скрытое или редко встречающееся. Большинство о нём не знает — включая специалистов в теме. Даёт преимущество перед экспертами.
 
 ### Инсайдерское знание (Insider knowledge)
 
-- Advanced tips
-- Behavioral nudges
-- Expert-only shortcuts
-- Insider tricks
-- Little-known tricks
-- Secret receipts
-- Subtle cues
-- Unspoken rules
+Advanced tips, Behavioral nudges, Expert-only shortcuts, Insider tricks, Little-known tricks, Secret receipts, Subtle cues, Unspoken rules
 
 ### Лазейки (Loopholes)
 
-- Alternate routes
-- Backdoor methods
-- Bypass routes
-- Grey area tactics
-- Growth hacks
-- Indirect paths
-- Non-standard techniques
-- Stealth tactics
-- Unconventional approaches
-- Unintended uses
+Backdoor methods, Bypass routes, Grey area tactics, Growth hacks, Indirect paths, Non-standard techniques, Stealth tactics, Unintended uses
 
 ### Стратегии на случай сбоев (Contingency strategies)
 
@@ -90,21 +64,11 @@ description: Методика что, как называем и их крите
 
 ### Скрытые механики (Hidden mechanics)
 
-- Ghost features
-- Hidden flags
-- Implicit mechanics
-- Shadow processes
-- Under-the-hood tweaks
-- Undocumented features
+Ghost features, Hidden flags, Implicit mechanics, Shadow processes, Under-the-hood tweaks, Undocumented features
 
 ### Незадокументированное поведение (Undocumented behavior)
 
-- Bugs
-- Contextual triggers
-- Corner cases
-- Quirks (Engine, Platform, Profession)
-- Side effects
-- Underdocumented behavior
+Bugs, Contextual triggers, Corner cases, Quirks (Engine, Platform, Profession), Side effects, Underdocumented behavior
 
 ---
 
@@ -124,13 +88,7 @@ description: Методика что, как называем и их крите
 
 #### Принуждение (Forced action)
 
-- Forced action
-- Forced continuity
-- Forced subscriptions
-- Friction traps
-- Lock-in tactics
-- Obstruction tactics
-- Roach motel
+Forced action, Forced continuity, Forced subscriptions, Friction traps, Lock-in tactics, Obstruction tactics, Roach motel
 
 #### Ложный дефицит и срочность (Fake scarcity and urgency)
 
@@ -176,4 +134,4 @@ description: Методика что, как называем и их крите
 
 ## Профессионал
 
-Имеет опыт в большинстве ситуаций, по своей профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться разделами «Экспертное», «Неочевидное», «Асоциальное» из этого документа, специфичными для профессии или смежных областей.
+Опыт в большинстве ситуаций по профессии. Понимает, какие/когда требуются действия/инструменты/ограничения. Умеет пользоваться разделами «Экспертное», «Неочевидное», «Асоциальное».
