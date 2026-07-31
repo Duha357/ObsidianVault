@@ -10,10 +10,14 @@ description: Методика что, как называем и их крите
 - Fast‑track strategies
 - Lifehacks
 - Loss minimization tactics
-- Optimizations (Time, Resources, Quality savers)
+- Optimizations
+- Time—savers
+- Resources—savers
+- Quality—savers
 - Pro-level tips
 - Workarounds
 - Shortcuts
+- Quick wins
 - Hints
 - Hidden features
 - Tricks
@@ -76,19 +80,29 @@ description: Методика что, как называем и их крите
 - Privacy zuckering
 - Glitches
 - Hacks
+- Obstruction tactics
 - Retention tricks
 - Dark patterns
 - Fallback methods
 - Roach motel
+- Confirmshaming
+- Artificial scarcity
 - Contingency tactics
 - Friend spam
+- Fake social proof
+- Attention hijacking
 - Forced action
 - Scam patterns
 - Forced continuity
+- Guilt-tripping
+- Attention traps
 - Confirmshaming
+- Sneaky redirects
 - Risk tactics
 - Damage control
+- Forced subscriptions
 - Hacky solutions
+- Fake urgency
 - Quirks (Engine, Platform, Profession)
 - Manipulative tactics
 - Deceptive UX
@@ -100,6 +114,7 @@ description: Методика что, как называем и их крите
 - Growth hacks
 - Clickbait
 - Conversion tricks
+- Lock-in tactics
 
 ## Профессионал
 
@@ -108,18 +123,30 @@ description: Методика что, как называем и их крите
 
 
 
-## Асоциальное
+## Явное
 
-- Bait-and-switch
-- Forced continuity
-- Confirmshaming
-- Roach motel
-- Misdirection
-- Friend spam
-- Privacy zuckering
-- Forced action
-- Clickbait
-- Fake urgency
-- Artificial scarcity
-- Lock-in tactics
-- Attention hijacking
+- Quick wins
+- Time-savers
+- Core workflows
+- Direct solutions
+- Transparent setups
+- Speedruns
+- Resource management
+- Baseline optimizations
+- Standard protocols
+- Straightforward tactics
+- Usability improvements
+
+## Не явное
+
+- Unintended uses
+- Ghost features
+- Hidden flags
+- Implicit mechanics
+- Under-the-hood tweaks
+- Corner cases
+- Indirect paths
+- Stealth techniques
+- Side-effects
+- Invisible settings
+- Contextual triggers
