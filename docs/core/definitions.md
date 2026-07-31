@@ -8,9 +8,9 @@ description: Методика что, как называем и их крите
 Пример:
 - Fast‑track strategies
 - Lifehacks
+- Loss minimization tactics
 - Optimizations
 	- Time, Resources, Quality savers
-	- Loss minimization tactics
 - Pro tips
 - Workarounds
 - Shortcuts
