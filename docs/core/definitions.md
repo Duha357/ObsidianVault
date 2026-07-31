@@ -6,10 +6,11 @@ description: Методика что, как называем и их крите
 Понятное. Чаще встречающееся. Открытое. Логичное. Прямое. Откровенное
 
 Пример:
-- Loss minimization tactics
 - Fast‑track strategies
 - Lifehacks
-- Optimizations (Time, Resources, Quality savers)
+- Optimizations
+	- Time, Resources, Quality savers
+	- Loss minimization tactics
 - Pro tips
 - Workarounds
 - Shortcuts
@@ -32,6 +33,7 @@ description: Методика что, как называем и их крите
 - Unconventional approaches
 - Non‑obvious opportunities
 - Efficiency hacks
+- Alternate routes
 
 ## Асоциальное
 
