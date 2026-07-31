@@ -48,7 +48,7 @@ description: Методика что, как называем и их крите
 - Underdocumented behavior
 - Undocumented features
 - Expert-only shortcuts
-- Secret items
+- Secret receipts
 - Undocumented behavior
 - Unconventional approaches
 - Non‑obvious opportunities
@@ -66,6 +66,13 @@ description: Методика что, как называем и их крите
 - Glitches
 - Hacks
 - Dark patterns
+- Fallback methods
+- Contingency tactics
+- Risk tactics
+- Damage control
+- Hacky solutions
+- Quirks (Engine, Platform, Profession)
+- Manipulative tactics
 
 ## Профессионал
 
