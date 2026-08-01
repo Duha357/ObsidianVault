@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785576549551-xhou2wy6v",
+  "providerId": "claude",
+  "title": "Прочитай документ «Места»",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785576549563,
+  "updatedAt": 1785576553927,
+  "lastResponseAt": 1785576552925,
+  "sessionId": "83186257-69f8-4563-9a1f-d9d9f0e1a64a",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "83186257-69f8-4563-9a1f-d9d9f0e1a64a"
+  },
+  "currentNote": "docs/Walkthrough/Gothic 1 Remake/Места.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}
