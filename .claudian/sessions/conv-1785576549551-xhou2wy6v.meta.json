@@ -4,8 +4,8 @@
   "title": "Прочитай документ «Места»",
   "titleGenerationStatus": "failed",
   "createdAt": 1785576549563,
-  "updatedAt": 1785578070569,
-  "lastResponseAt": 1785578070569,
+  "updatedAt": 1785578363261,
+  "lastResponseAt": 1785578363261,
   "sessionId": "83186257-69f8-4563-9a1f-d9d9f0e1a64a",
   "selectedModel": "opus",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "docs/Walkthrough/Gothic 1 Remake/Места.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 1,
-    "cacheCreationInputTokens": 10263,
-    "cacheReadInputTokens": 40773,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2895,
+    "cacheReadInputTokens": 54794,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 51037,
-    "percentage": 5
+    "contextTokens": 57691,
+    "percentage": 6
   }
 }
