@@ -4,8 +4,8 @@
   "title": "Прочитай документ «Места»",
   "titleGenerationStatus": "failed",
   "createdAt": 1785576549563,
-  "updatedAt": 1785578363261,
-  "lastResponseAt": 1785578363261,
+  "updatedAt": 1785578575785,
+  "lastResponseAt": 1785578575785,
   "sessionId": "83186257-69f8-4563-9a1f-d9d9f0e1a64a",
   "selectedModel": "opus",
   "providerState": {
@@ -15,11 +15,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2895,
-    "cacheReadInputTokens": 54794,
+    "cacheCreationInputTokens": 11557,
+    "cacheReadInputTokens": 60174,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 57691,
-    "percentage": 6
+    "contextTokens": 71733,
+    "percentage": 7
   }
 }
