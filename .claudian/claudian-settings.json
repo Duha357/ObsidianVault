@@ -26,9 +26,7 @@
     "claude": {
       "safeMode": "acceptEdits",
       "cliPath": "",
-      "cliPathsByHost": {
-        "device:328327c4-99ee-4041-a9f0-4b6e5c53e6b5": "C:\\Users\\Andrey Semerikov\\AppData\\Local\\Microsoft\\WinGet\\Links\\claude.exe"
-      },
+      "cliPathsByHost": {},
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
