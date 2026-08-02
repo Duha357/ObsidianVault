@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785658848169-yks8pxun6",
+  "providerId": "claude",
+  "title": "Проверить researcher.md на соответствие ai-outp...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785658848169,
+  "updatedAt": 1785658874662,
+  "lastResponseAt": 1785658874662,
+  "sessionId": "0feffe81-f969-4a03-be1e-5141dec06f1f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "0feffe81-f969-4a03-be1e-5141dec06f1f"
+  },
+  "currentNote": ".agents/skills/researcher.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 29815,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29825,
+    "percentage": 15
+  }
+}
