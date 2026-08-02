@@ -4,7 +4,21 @@
   "title": "Create git repo for .agents with README and push",
   "titleGenerationStatus": "success",
   "createdAt": 1785657895146,
-  "updatedAt": 1785657900929,
-  "sessionId": null,
-  "selectedModel": "opus"
+  "updatedAt": 1785658275810,
+  "lastResponseAt": 1785658275810,
+  "sessionId": "7ef9571b-331e-43f5-8de3-bb759b05020a",
+  "selectedModel": "opus",
+  "providerState": {
+    "providerSessionId": "7ef9571b-331e-43f5-8de3-bb759b05020a"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3213,
+    "cacheReadInputTokens": 25944,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29159,
+    "percentage": 3
+  }
 }
