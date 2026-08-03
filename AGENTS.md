@@ -34,4 +34,4 @@ Obsidian не показывает папки с точкой — это огр�
 ## Форматы
 
 Активные правила формата:
-- @.agents/rules/formats/ai-output.md
+- @.agents/rules/formats/*
