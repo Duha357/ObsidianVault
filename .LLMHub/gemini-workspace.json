@@ -75,6 +75,7 @@
     "Нет, мне нужно модифицировать правило. Давай попробуем по другому. Я модифицировал docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/Правила оформления документа.md Проверь docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/1. Основы языка/1.1.2 Стили программирования.md согласно новым правкам",
     "Применить",
     "Давай ещё раз",
-    "Я снова изменил docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/Правила оформления документа.md поправь документ docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/1. Основы языка/1.1.2 Стили программирования.md "
+    "Я снова изменил docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/Правила оформления документа.md поправь документ docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/1. Основы языка/1.1.2 Стили программирования.md ",
+    "Читаем документ docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/1. Основы языка/1.1.1 Обзор языка, история, философия.md \n\nЗадача:\n- Проверить на соответствие .agents/rules/formats/ai-output.md \n- Поверх проверки, применить правила из docs/Self—improvement/Soft Skills/Курс 'Основы Scala'/Правила оформления документа.md"
   ]
 }
