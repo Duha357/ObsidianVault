@@ -4,8 +4,8 @@
   "title": "Align AGENTS.md with md-doc rule",
   "titleGenerationStatus": "success",
   "createdAt": 1786205778046,
-  "updatedAt": 1786206426376,
-  "lastResponseAt": 1786206426376,
+  "updatedAt": 1786206697942,
+  "lastResponseAt": 1786206697942,
   "sessionId": "ae11c24e-2c9c-4bf6-8f5f-6c9eb1ebb6cc",
   "selectedModel": "opus",
   "providerState": {
@@ -15,11 +15,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 597,
-    "cacheReadInputTokens": 61029,
+    "cacheCreationInputTokens": 3292,
+    "cacheReadInputTokens": 63908,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 61628,
-    "percentage": 6
+    "contextTokens": 67202,
+    "percentage": 7
   }
 }
