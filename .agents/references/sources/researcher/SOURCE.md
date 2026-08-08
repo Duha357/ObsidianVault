@@ -1,6 +1,6 @@
 ---
 name: researcher
-description: При работе с @.agents/skills/researcher/SKILL.md, картой источников, выбором класса источника, поиском доменных точек входа, аудитом баланса подборки.
+description: При работе с `.agents/skills/researcher/SKILL.md`, картой источников, выбором класса источника, поиском доменных точек входа, аудитом баланса подборки.
 ---
 
 ## Содержание
@@ -69,9 +69,9 @@ description: При работе с @.agents/skills/researcher/SKILL.md, кар�
 Применять сразу. Если дальнейшими инструкциями или пользователем не указано иное.
 
 - `.md` документов:
-	- @.agents/rules/md-doc/RULE.md
+	- `.agents/rules/md-doc/RULE.md`
 - Текстов:
-	- @.agents/rules/ai-output/RULE.md
+	- `.agents/rules/ai-output/RULE.md`
 
 [[#Содержание|↑ Назад]]
 
