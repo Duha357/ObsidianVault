@@ -144,27 +144,27 @@ description: При работе с `.agents/skills/researcher/SKILL.md`, кар
 
 ## Формулировки для запросов
 
-| Слой | Группа | Формулировки |
-|---|---|---|
-| Экспертное | Советы (Tips) | Efficiency hacks, Fast wins, Hints, Lifehacks, Pro-level tips, Quick wins, Shortcuts, Tricks |
-| Экспертное | Оптимизация (Optimizations) | Loss minimization tactics, Low-friction methods, Process improvements, Quality-savers, Resource management, Resources-savers, Smart defaults |
-| Экспертное | Экономия времени (Time-savers) | Fast-track strategies, Productivity boosts, Speedruns |
-| Экспертное | Обходные пути (Workarounds) | Alternative methods, Creative uses, Edge-case solutions |
-| Экспертное | Скрытые возможности (Hidden features) | Power-user features |
-| Неочевидное | Инсайдерское знание (Insider knowledge) | Advanced tips, Behavioral nudges, Expert-only shortcuts, Insider tricks, Little-known tricks, Secret receipts, Subtle cues, Unspoken rules |
-| Неочевидное | Лазейки (Loopholes) | Backdoor methods, Bypass routes, Grey area tactics, Growth hacks, Indirect paths, Non-standard techniques, Stealth tactics, Unintended uses |
-| Неочевидное | Стратегии на случай сбоев (Contingency strategies) | Contingency tactics, Damage control, Fallback methods, Risk tactics |
-| Неочевидное | Слепые зоны (Blind spots) | Hidden opportunities, Implicit assumptions, Non-obvious opportunities, Overlooked features, Undiscovered methods |
-| Неочевидное | Скрытые механики (Hidden mechanics) | Ghost features, Hidden flags, Implicit mechanics, Shadow processes, Under-the-hood tweaks, Undocumented features |
-| Неочевидное | Незадокументированное поведение (Undocumented behavior) | Bugs, Contextual triggers, Corner cases, Quirks (Engine, Platform, Profession), Side effects, Underdocumented behavior |
-| Асоциальное | Тёмные паттерны: обман и подмена (Deception) | Bait-and-switch, Deceptive UX, Privacy zuckering, Scam patterns, Sneaky redirects |
-| Асоциальное | Тёмные паттерны: принуждение (Forced action) | Forced action, Forced continuity, Forced subscriptions, Friction traps, Lock-in tactics, Obstruction tactics, Roach motel |
-| Асоциальное | Тёмные паттерны: ложный дефицит и срочность (Fake scarcity and urgency) | Artificial scarcity, Fake urgency |
-| Асоциальное | Тёмные паттерны: перехват внимания (Attention hijacking) | Attention hijacking, Attention traps, Clickbait |
-| Асоциальное | Тёмные паттерны: фальшивое соцдоказательство (Fake social proof) | Fake social proof, Friend spam |
-| Асоциальное | Тёмные паттерны: давление и манипуляция (Pressure and manipulation) | Exploitative flows, Manipulative tactics, Pressure tactics |
-| Асоциальное | Тёмные паттерны: стыд и вина (Shame and guilt) | Confirmshaming, Guilt-tripping |
-| Асоциальное | Тёмные паттерны: конверсия и удержание (Conversion and retention) | Conversion tricks, Retention tricks |
-| Асоциальное | Технические эксплойты (Exploits) | Abuse vectors, Cheat codes, Glitches, Hacks, Hacky solutions |
+| Слой        | Группа                                                                  | Формулировки                                                                                                                                 |
+| ----------- | ----------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| Экспертное  | Советы (Tips)                                                           | Efficiency hacks, Fast wins, Hints, Lifehacks, Pro-level tips, Quick wins, Shortcuts, Tricks                                                 |
+| Экспертное  | Оптимизация (Optimizations)                                             | Loss minimization tactics, Low-friction methods, Process improvements, Quality-savers, Resource management, Resources-savers, Smart defaults |
+| Экспертное  | Экономия времени (Time-savers)                                          | Fast-track strategies, Productivity boosts, Speedruns                                                                                        |
+| Экспертное  | Обходные пути (Workarounds)                                             | Alternative methods, Creative uses, Edge-case solutions                                                                                      |
+| Экспертное  | Скрытые возможности (Hidden features)                                   | Power-user features                                                                                                                          |
+| Неочевидное | Инсайдерское знание (Insider knowledge)                                 | Advanced tips, Behavioral nudges, Expert-only shortcuts, Insider tricks, Little-known tricks, Secret receipts, Subtle cues, Unspoken rules   |
+| Неочевидное | Лазейки (Loopholes)                                                     | Backdoor methods, Bypass routes, Grey area tactics, Growth hacks, Indirect paths, Non-standard techniques, Stealth tactics, Unintended uses  |
+| Неочевидное | Стратегии на случай сбоев (Contingency strategies)                      | Contingency tactics, Damage control, Fallback methods, Risk tactics                                                                          |
+| Неочевидное | Слепые зоны (Blind spots)                                               | Hidden opportunities, Implicit assumptions, Non-obvious opportunities, Overlooked features, Undiscovered methods                             |
+| Неочевидное | Скрытые механики (Hidden mechanics)                                     | Ghost features, Hidden flags, Implicit mechanics, Shadow processes, Under-the-hood tweaks, Undocumented features                             |
+| Неочевидное | Незадокументированное поведение (Undocumented behavior)                 | Bugs, Contextual triggers, Corner cases, Quirks (Engine, Platform, Profession), Side effects, Underdocumented behavior                       |
+| Асоциальное | Тёмные паттерны: обман и подмена (Deception)                            | Bait-and-switch, Deceptive UX, Privacy zuckering, Scam patterns, Sneaky redirects                                                            |
+| Асоциальное | Тёмные паттерны: принуждение (Forced action)                            | Forced action, Forced continuity, Forced subscriptions, Friction traps, Lock-in tactics, Obstruction tactics, Roach motel                    |
+| Асоциальное | Тёмные паттерны: ложный дефицит и срочность (Fake scarcity and urgency) | Artificial scarcity, Fake urgency                                                                                                            |
+| Асоциальное | Тёмные паттерны: перехват внимания (Attention hijacking)                | Attention hijacking, Attention traps, Clickbait                                                                                              |
+| Асоциальное | Тёмные паттерны: фальшивое соцдоказательство (Fake social proof)        | Fake social proof, Friend spam                                                                                                               |
+| Асоциальное | Тёмные паттерны: давление и манипуляция (Pressure and manipulation)     | Exploitative flows, Manipulative tactics, Pressure tactics                                                                                   |
+| Асоциальное | Тёмные паттерны: стыд и вина (Shame and guilt)                          | Confirmshaming, Guilt-tripping                                                                                                               |
+| Асоциальное | Тёмные паттерны: конверсия и удержание (Conversion and retention)       | Conversion tricks, Retention tricks                                                                                                          |
+| Асоциальное | Технические эксплойты (Exploits)                                        | Abuse vectors, Cheat codes, Glitches, Hacks, Hacky solutions                                                                                 |
 
 [[#Содержание|↑ Назад]]
