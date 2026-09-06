@@ -15,3 +15,6 @@ desktop.ini
 
 # Системные файлы macOS (на всякий случай, если interacт с маком)
 .DS_Store
+
+# Адаптер Claude Code: junctions на .agents, содержимое уже в репозитории
+.claude/
