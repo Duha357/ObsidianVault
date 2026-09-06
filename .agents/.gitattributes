@@ -1,0 +1,3 @@
+# Скрипты обязаны выезжать из git с LF: CRLF ломает их в Git Bash («\r: command not found»).
+# .agents — отдельный git-репозиторий, корневой .gitattributes на него не действует.
+*.sh text eol=lf
