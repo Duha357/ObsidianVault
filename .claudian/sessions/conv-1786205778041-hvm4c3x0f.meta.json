@@ -5,10 +5,12 @@
   "titleGenerationStatus": "success",
   "createdAt": 1786205778046,
   "lastActivityAt": 1786206697942,
-  "sessionId": "ae11c24e-2c9c-4bf6-8f5f-6c9eb1ebb6cc",
+  "sessionId": null,
   "selectedModel": "opus",
   "providerState": {
-    "providerSessionId": "ae11c24e-2c9c-4bf6-8f5f-6c9eb1ebb6cc"
+    "previousProviderSessionIds": [
+      "ae11c24e-2c9c-4bf6-8f5f-6c9eb1ebb6cc"
+    ]
   },
   "currentNote": "AGENTS.md",
   "usage": {
