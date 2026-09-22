@@ -51,5 +51,3 @@
 - `.../.obsidian/` — данные Obsidian.
 - `.../.LLMHub/` — данные плагина LLMHub для Obsidian.
 - `.../.claudian/` — данные плагина Claudian для Obsidian.
-- `.../.gitattributes` — атрибуты git: LF везде.
-- `.../.gitignore` — что из хранилища не попадает в git.
