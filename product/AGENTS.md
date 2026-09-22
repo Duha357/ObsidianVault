@@ -24,5 +24,3 @@
 - `.../product/scope.md` — что входит в хранилище, а чего в нём не будет.
 - `.../product/terminology.md` — словарь понятий хранилища.
 - `.../product/conventions.md` — как пишется документация: слог, структура, оформление, frontmatter.
-- `.../product/AGENTS.md` — правила папки.
-- `.../product/CLAUDE.md` — инструкции для Claude Code, импортирует `@AGENTS.md`.

@@ -52,7 +52,5 @@
 - `.../.obsidian/` — данные Obsidian.
 - `.../.LLMHub/` — данные плагина LLMHub для Obsidian.
 - `.../.claudian/` — данные плагина Claudian для Obsidian.
-- `.../AGENTS.md` — правила хранилища и раскладка.
-- `.../CLAUDE.md` — инструкции для Claude Code, импортирует `@AGENTS.md`.
 - `.../.gitattributes` — атрибуты git: LF везде.
 - `.../.gitignore` — что из хранилища не попадает в git.
