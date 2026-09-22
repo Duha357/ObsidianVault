@@ -1,0 +1,3 @@
+# Рабочая копия и репозиторий — LF везде: одинаковое поведение на Windows и Linux.
+# CRLF ломает скрипты в Git Bash («\r: command not found») и путает diff между машинами.
+* text=auto eol=lf
