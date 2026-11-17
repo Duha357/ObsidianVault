@@ -27,3 +27,4 @@
 - `.../research/2026-07-prod-migrations.md` — прод-процедура миграций БД.
 - `.../research/2026-08-agreement-universal-blocks.md` — универсальные блоки соглашения между сторонами.
 - `.../research/2026-10-skill-install-multiagent.md` — установка скилла и его триггеров для нескольких агентов.
+- `.../research/2026-11-task-resolution-writing.md` — резолюции к IT-задачам, понятные пользователю.
